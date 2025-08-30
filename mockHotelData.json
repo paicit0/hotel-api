@@ -1,0 +1,102 @@
+[
+  {
+    "hotel_id": "H001",
+    "hotel_name": "Grand View Hotel",
+    "hotel_location": "New York, USA",
+    "hotel_review_star": 4.5,
+    "hotel_room_types": [
+      {
+        "room_name": "Standard King Room",
+        "room_price": 250.00
+      },
+      {
+        "room_name": "Deluxe Double Room",
+        "room_price": 300.00
+      },
+      {
+        "room_name": "Executive Suite",
+        "room_price": 650.00
+      }
+    ]
+  },
+  {
+    "hotel_id": "H002",
+    "hotel_name": "Seaside Resort & Spa",
+    "hotel_location": "Malibu, USA",
+    "hotel_review_star": 4.8,
+    "hotel_room_types": [
+      {
+        "room_name": "Ocean View Room",
+        "room_price": 450.00
+      },
+      {
+        "room_name": "Beachfront Bungalow",
+        "room_price": 700.00
+      },
+      {
+        "room_name": "Family Villa",
+        "room_price": 1200.00
+      }
+    ]
+  },
+  {
+    "hotel_id": "H003",
+    "hotel_name": "Mountain Lodge",
+    "hotel_location": "Banff, Canada",
+    "hotel_review_star": 4.2,
+    "hotel_room_types": [
+      {
+        "room_name": "Cozy Cabin",
+        "room_price": 180.00
+      },
+      {
+        "room_name": "Superior Room",
+        "room_price": 220.00
+      },
+      {
+        "room_name": "Lodge Suite",
+        "room_price": 380.00
+      }
+    ]
+  },
+  {
+    "hotel_id": "H004",
+    "hotel_name": "Urban Oasis Hotel",
+    "hotel_location": "Tokyo, Japan",
+    "hotel_review_star": 4.6,
+    "hotel_room_types": [
+      {
+        "room_name": "Single Room",
+        "room_price": 150.00
+      },
+      {
+        "room_name": "Queen Room",
+        "room_price": 280.00
+      },
+      {
+        "room_name": "Corner Suite",
+        "room_price": 550.00
+      }
+    ]
+  },
+  {
+    "hotel_id": "H005",
+    "hotel_name": "Desert Sands Inn",
+    "hotel_location": "Dubai, UAE",
+    "hotel_review_star": 4.0,
+    "hotel_room_types": [
+      {
+        "room_name": "Standard Room",
+        "room_price": 200.00
+      },
+      {
+        "room_name": "Deluxe Room with Balcony",
+        "room_price": 350.00
+      },
+      {
+        "room_name": "Royal Suite",
+        "room_price": 900.00
+      }
+    ]
+  }
+]
