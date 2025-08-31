@@ -1,101 +1,381 @@
 [
   {
-    "hotel_id": "H001",
+    "hotel_id": "H1",
     "hotel_name": "Grand View Hotel",
     "hotel_location": "New York, USA",
     "hotel_review_star": 4.5,
     "hotel_room_types": [
       {
         "room_name": "Standard King Room",
-        "room_price": 250.00
+        "room_price": 250.0
       },
       {
         "room_name": "Deluxe Double Room",
-        "room_price": 300.00
+        "room_price": 300.0
       },
       {
         "room_name": "Executive Suite",
-        "room_price": 650.00
+        "room_price": 650.0
       }
     ]
   },
   {
-    "hotel_id": "H002",
+    "hotel_id": "H2",
     "hotel_name": "Seaside Resort & Spa",
     "hotel_location": "Malibu, USA",
     "hotel_review_star": 4.8,
     "hotel_room_types": [
       {
         "room_name": "Ocean View Room",
-        "room_price": 450.00
+        "room_price": 450.0
       },
       {
         "room_name": "Beachfront Bungalow",
-        "room_price": 700.00
+        "room_price": 700.0
       },
       {
         "room_name": "Family Villa",
-        "room_price": 1200.00
+        "room_price": 1200.0
       }
     ]
   },
   {
-    "hotel_id": "H003",
+    "hotel_id": "H3",
     "hotel_name": "Mountain Lodge",
     "hotel_location": "Banff, Canada",
     "hotel_review_star": 4.2,
     "hotel_room_types": [
       {
         "room_name": "Cozy Cabin",
-        "room_price": 180.00
+        "room_price": 180.0
       },
       {
         "room_name": "Superior Room",
-        "room_price": 220.00
+        "room_price": 220.0
       },
       {
         "room_name": "Lodge Suite",
-        "room_price": 380.00
+        "room_price": 380.0
       }
     ]
   },
   {
-    "hotel_id": "H004",
+    "hotel_id": "H4",
     "hotel_name": "Urban Oasis Hotel",
     "hotel_location": "Tokyo, Japan",
     "hotel_review_star": 4.6,
     "hotel_room_types": [
       {
         "room_name": "Single Room",
-        "room_price": 150.00
+        "room_price": 150.0
       },
       {
         "room_name": "Queen Room",
-        "room_price": 280.00
+        "room_price": 280.0
       },
       {
         "room_name": "Corner Suite",
-        "room_price": 550.00
+        "room_price": 550.0
       }
     ]
   },
   {
-    "hotel_id": "H005",
+    "hotel_id": "H5",
     "hotel_name": "Desert Sands Inn",
     "hotel_location": "Dubai, UAE",
     "hotel_review_star": 4.0,
     "hotel_room_types": [
       {
         "room_name": "Standard Room",
-        "room_price": 200.00
+        "room_price": 200.0
       },
       {
         "room_name": "Deluxe Room with Balcony",
-        "room_price": 350.00
+        "room_price": 350.0
       },
       {
         "room_name": "Royal Suite",
-        "room_price": 900.00
+        "room_price": 900.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H6",
+    "hotel_name": "Siam Paradise Resort",
+    "hotel_location": "Phuket, Thailand",
+    "hotel_review_star": 4.8,
+    "hotel_room_types": [
+      {
+        "room_name": "Garden View Room",
+        "room_price": 150.0
+      },
+      {
+        "room_name": "Oceanfront Balcony",
+        "room_price": 280.0
+      },
+      {
+        "room_name": "Pool Villa",
+        "room_price": 550.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H7",
+    "hotel_name": "Riverside Boutique",
+    "hotel_location": "Chiang Mai, Thailand",
+    "hotel_review_star": 4.2,
+    "hotel_room_types": [
+      {
+        "room_name": "Classic City Room",
+        "room_price": 95.0
+      },
+      {
+        "room_name": "River View Suite",
+        "room_price": 180.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H8",
+    "hotel_name": "Tropical Oasis",
+    "hotel_location": "Koh Samui, Thailand",
+    "hotel_review_star": 4.6,
+    "hotel_room_types": [
+      {
+        "room_name": "Deluxe Room",
+        "room_price": 190.0
+      },
+      {
+        "room_name": "Family Bungalow",
+        "room_price": 320.0
+      },
+      {
+        "room_name": "Private Beach Villa",
+        "room_price": 750.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H9",
+    "hotel_name": "Bangkok Urban Stay",
+    "hotel_location": "Bangkok, Thailand",
+    "hotel_review_star": 4.0,
+    "hotel_room_types": [
+      {
+        "room_name": "Superior Room",
+        "room_price": 110.0
+      },
+      {
+        "room_name": "Premier King Room",
+        "room_price": 160.0
+      },
+      {
+        "room_name": "Corner Suite",
+        "room_price": 275.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H10",
+    "hotel_name": "Krabi Cliffside Lodge",
+    "hotel_location": "Krabi, Thailand",
+    "hotel_review_star": 4.7,
+    "hotel_room_types": [
+      {
+        "room_name": "Standard Double Room",
+        "room_price": 130.0
+      },
+      {
+        "room_name": "Mountain View Suite",
+        "room_price": 220.0
+      },
+      {
+        "room_name": "Honeymoon Suite with Jacuzzi",
+        "room_price": 410.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H11",
+    "hotel_name": "Phuket Serene Sands",
+    "hotel_location": "Phuket, Thailand",
+    "hotel_review_star": 4.9,
+    "hotel_room_types": [
+      {
+        "room_name": "Beachfront Deluxe",
+        "room_price": 350.0
+      },
+      {
+        "room_name": "Family Suite with Ocean View",
+        "room_price": 500.0
+      },
+      {
+        "room_name": "Luxury Pool Villa",
+        "room_price": 950.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H12",
+    "hotel_name": "Chiang Rai Mountain Retreat",
+    "hotel_location": "Chiang Rai, Thailand",
+    "hotel_review_star": 4.5,
+    "hotel_room_types": [
+      {
+        "room_name": "Superior Twin Room",
+        "room_price": 120.0
+      },
+      {
+        "room_name": "Valley View Bungalow",
+        "room_price": 240.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H13",
+    "hotel_name": "Koh Lanta Hideaway",
+    "hotel_location": "Koh Lanta, Thailand",
+    "hotel_review_star": 4.3,
+    "hotel_room_types": [
+      {
+        "room_name": "Garden Bungalow",
+        "room_price": 110.0
+      },
+      {
+        "room_name": "Sea View Hut",
+        "room_price": 185.0
+      },
+      {
+        "room_name": "Lanta Suite",
+        "room_price": 310.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H14",
+    "hotel_name": "Pattaya City Resort",
+    "hotel_location": "Pattaya, Thailand",
+    "hotel_review_star": 3.9,
+    "hotel_room_types": [
+      {
+        "room_name": "Standard Room",
+        "room_price": 85.0
+      },
+      {
+        "room_name": "Deluxe City View",
+        "room_price": 130.0
+      },
+      {
+        "room_name": "Executive Room",
+        "room_price": 190.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H15",
+    "hotel_name": "Sukhothai Heritage Inn",
+    "hotel_location": "Sukhothai, Thailand",
+    "hotel_review_star": 4.1,
+    "hotel_room_types": [
+      {
+        "room_name": "Classic King Room",
+        "room_price": 90.0
+      },
+      {
+        "room_name": "Garden Suite",
+        "room_price": 150.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H16",
+    "hotel_name": "Hua Hin Beachfront",
+    "hotel_location": "Hua Hin, Thailand",
+    "hotel_review_star": 4.7,
+    "hotel_room_types": [
+      {
+        "room_name": "Beachfront Cottage",
+        "room_price": 280.0
+      },
+      {
+        "room_name": "Family Cabana",
+        "room_price": 420.0
+      },
+      {
+        "room_name": "Presidential Suite",
+        "room_price": 800.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H17",
+    "hotel_name": "Ko Phi Phi Dream",
+    "hotel_location": "Ko Phi Phi, Thailand",
+    "hotel_review_star": 4.6,
+    "hotel_room_types": [
+      {
+        "room_name": "Bamboo Hut",
+        "room_price": 75.0
+      },
+      {
+        "room_name": "Sea View Deluxe",
+        "room_price": 145.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H18",
+    "hotel_name": "Ayutthaya River Lodge",
+    "hotel_location": "Ayutthaya, Thailand",
+    "hotel_review_star": 4.0,
+    "hotel_room_types": [
+      {
+        "room_name": "Riverside Room",
+        "room_price": 105.0
+      },
+      {
+        "room_name": "Heritage Suite",
+        "room_price": 195.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H19",
+    "hotel_name": "Khon Kaen Grand Hotel",
+    "hotel_location": "Khon Kaen, Thailand",
+    "hotel_review_star": 4.2,
+    "hotel_room_types": [
+      {
+        "room_name": "Standard Room",
+        "room_price": 90.0
+      },
+      {
+        "room_name": "Executive Floor Room",
+        "room_price": 170.0
+      },
+      {
+        "room_name": "Khon Kaen Suite",
+        "room_price": 300.0
+      }
+    ]
+  },
+  {
+    "hotel_id": "H20",
+    "hotel_name": "Koh Chang Eco Resort",
+    "hotel_location": "Koh Chang, Thailand",
+    "hotel_review_star": 4.4,
+    "hotel_room_types": [
+      {
+        "room_name": "Forest Bungalow",
+        "room_price": 125.0
+      },
+      {
+        "room_name": "Treehouse",
+        "room_price": 210.0
+      },
+      {
+        "room_name": "Ocean View Villa",
+        "room_price": 450.0
       }
     ]
   }
