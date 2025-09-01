@@ -4,6 +4,12 @@
     "hotel_name": "Grand View Hotel",
     "hotel_location": "New York, USA",
     "hotel_review_star": 4.5,
+    "hotel_images": [
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/5.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Standard King Room",
@@ -24,6 +30,12 @@
     "hotel_name": "Seaside Resort & Spa",
     "hotel_location": "Malibu, USA",
     "hotel_review_star": 4.8,
+    "hotel_images": [
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/1.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Ocean View Room",
@@ -44,6 +56,12 @@
     "hotel_name": "Mountain Lodge",
     "hotel_location": "Banff, Canada",
     "hotel_review_star": 4.2,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/5.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Cozy Cabin",
@@ -64,6 +82,12 @@
     "hotel_name": "Urban Oasis Hotel",
     "hotel_location": "Tokyo, Japan",
     "hotel_review_star": 4.6,
+    "hotel_images": [
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/3.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Single Room",
@@ -84,6 +108,12 @@
     "hotel_name": "Desert Sands Inn",
     "hotel_location": "Dubai, UAE",
     "hotel_review_star": 4.0,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/3.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Standard Room",
@@ -104,6 +134,12 @@
     "hotel_name": "Siam Paradise Resort",
     "hotel_location": "Phuket, Thailand",
     "hotel_review_star": 4.8,
+    "hotel_images": [
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/3.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Garden View Room",
@@ -124,6 +160,12 @@
     "hotel_name": "Riverside Boutique",
     "hotel_location": "Chiang Mai, Thailand",
     "hotel_review_star": 4.2,
+    "hotel_images": [
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/4.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Classic City Room",
@@ -140,6 +182,12 @@
     "hotel_name": "Tropical Oasis",
     "hotel_location": "Koh Samui, Thailand",
     "hotel_review_star": 4.6,
+    "hotel_images": [
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/1.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Deluxe Room",
@@ -160,6 +208,12 @@
     "hotel_name": "Bangkok Urban Stay",
     "hotel_location": "Bangkok, Thailand",
     "hotel_review_star": 4.0,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/5.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Superior Room",
@@ -180,6 +234,12 @@
     "hotel_name": "Krabi Cliffside Lodge",
     "hotel_location": "Krabi, Thailand",
     "hotel_review_star": 4.7,
+    "hotel_images": [
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/2.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Standard Double Room",
@@ -200,6 +260,12 @@
     "hotel_name": "Phuket Serene Sands",
     "hotel_location": "Phuket, Thailand",
     "hotel_review_star": 4.9,
+    "hotel_images": [
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/6.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Beachfront Deluxe",
@@ -220,6 +286,12 @@
     "hotel_name": "Chiang Rai Mountain Retreat",
     "hotel_location": "Chiang Rai, Thailand",
     "hotel_review_star": 4.5,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/4.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Superior Twin Room",
@@ -236,6 +308,12 @@
     "hotel_name": "Koh Lanta Hideaway",
     "hotel_location": "Koh Lanta, Thailand",
     "hotel_review_star": 4.3,
+    "hotel_images": [
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/1.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Garden Bungalow",
@@ -256,6 +334,12 @@
     "hotel_name": "Pattaya City Resort",
     "hotel_location": "Pattaya, Thailand",
     "hotel_review_star": 3.9,
+    "hotel_images": [
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/2.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Standard Room",
@@ -276,6 +360,12 @@
     "hotel_name": "Sukhothai Heritage Inn",
     "hotel_location": "Sukhothai, Thailand",
     "hotel_review_star": 4.1,
+    "hotel_images": [
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/5.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Classic King Room",
@@ -292,6 +382,12 @@
     "hotel_name": "Hua Hin Beachfront",
     "hotel_location": "Hua Hin, Thailand",
     "hotel_review_star": 4.7,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/4.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Beachfront Cottage",
@@ -312,6 +408,12 @@
     "hotel_name": "Ko Phi Phi Dream",
     "hotel_location": "Ko Phi Phi, Thailand",
     "hotel_review_star": 4.6,
+    "hotel_images": [
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/4.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Bamboo Hut",
@@ -328,6 +430,12 @@
     "hotel_name": "Ayutthaya River Lodge",
     "hotel_location": "Ayutthaya, Thailand",
     "hotel_review_star": 4.0,
+    "hotel_images": [
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/1.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Riverside Room",
@@ -344,6 +452,12 @@
     "hotel_name": "Khon Kaen Grand Hotel",
     "hotel_location": "Khon Kaen, Thailand",
     "hotel_review_star": 4.2,
+    "hotel_images": [
+      "/hotel-pictures/2.png",
+      "/hotel-pictures/4.png",
+      "/hotel-pictures/6.png",
+      "/hotel-pictures/3.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Standard Room",
@@ -364,6 +478,12 @@
     "hotel_name": "Koh Chang Eco Resort",
     "hotel_location": "Koh Chang, Thailand",
     "hotel_review_star": 4.4,
+    "hotel_images": [
+      "/hotel-pictures/1.png",
+      "/hotel-pictures/5.png",
+      "/hotel-pictures/3.png",
+      "/hotel-pictures/2.png"
+    ],
     "hotel_room_types": [
       {
         "room_name": "Forest Bungalow",
